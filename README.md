@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I'm Roberto
 
+
+- 🔭 I’m currently studying Computer Engineering at Universidad de Guadalajara.
+- 🌱 I’m currently learning about backend development.
+- 💬 Ask me about anything
+- 📫 How to reach me: send me an email.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: My last name is Pino which means pine tree in Spanish.
+  
 <!--
 **Pino-29/Pino-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
